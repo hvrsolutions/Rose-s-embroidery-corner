@@ -1161,45 +1161,23 @@ pre {
     border-left: .30em solid transparent;
   }
 }
-.cid-qr9kFLfjYH {
-  background-image: url("../../../assets/images/andrea-natali-2000x1333.jpg");
+.cid-qrabWRgVbN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-qr9q6nTMSm {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #f9b1c3;
+@media (min-width: 992px) {
+  .cid-qrabWRgVbN .mbr-figure {
+    padding-right: 4rem;
+  }
 }
-.cid-qr9q6nTMSm h2 {
-  text-align: center;
+@media (max-width: 991px) {
+  .cid-qrabWRgVbN .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
-.cid-qr9q6nTMSm h4 {
-  text-align: center;
-  z-index: 1;
-  color: #ffffff;
-}
-.cid-qr9q6nTMSm p {
-  z-index: 1;
-  margin-bottom: 0;
-  color: #ffffff;
-}
-.cid-qr9q6nTMSm .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-qr9q6nTMSm .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-qr9q6nTMSm .card-img img {
-  z-index: -1;
-  min-height: 100%;
-  min-width: 100%;
-  width: auto;
-  max-width: 600px;
+@media (max-width: 767px) {
+  .cid-qrabWRgVbN .mbr-text {
+    text-align: center;
+  }
 }
